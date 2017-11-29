@@ -1,0 +1,10 @@
+num_blocks = 5
+alpha = 10
+first_channels = 32
+learning_rate = 1e-4
+scale = 2
+tv_weight = 1e-3
+num_epochs = 1000
+batch_size = 64
+train_image_size = 60
+data_path = image_dataset

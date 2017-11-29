@@ -1,0 +1,28 @@
+
+Test Results :
+
+test_loss  : 775.54
+TV         : 896.02
+MSE        : 774.64
+BEST_INDEX : 0
+
+epoch = 1 train_loss = 1155.41 valid_loss = 821.53 tv_loss = 865.17 MSE = 820.67 time = 178 sec
+epoch = 2 train_loss = 536.04 valid_loss = 708.32 tv_loss = 865.25 MSE = 707.45 time = 351 sec
+epoch = 3 train_loss = 498.27 valid_loss = 666.71 tv_loss = 855.02 MSE = 665.86 time = 524 sec
+epoch = 4 train_loss = 490.58 valid_loss = 656.64 tv_loss = 846.42 MSE = 655.79 time = 698 sec
+epoch = 5 train_loss = 485.87 valid_loss = 651.23 tv_loss = 845.16 MSE = 650.38 time = 872 sec
+epoch = 6 train_loss = 481.90 valid_loss = 645.90 tv_loss = 844.28 MSE = 645.06 time = 1046 sec
+epoch = 7 train_loss = 478.41 valid_loss = 640.62 tv_loss = 843.39 MSE = 639.78 time = 1221 sec
+epoch = 8 train_loss = 475.14 valid_loss = 634.77 tv_loss = 844.85 MSE = 633.92 time = 1396 sec
+epoch = 9 train_loss = 471.90 valid_loss = 637.45 tv_loss = 841.99 MSE = 636.61 time = 1570 sec
+epoch = 10 train_loss = 468.86 valid_loss = 637.11 tv_loss = 843.11 MSE = 636.27 time = 1739 sec
+
+Test Results :
+
+test_loss  : 562.87
+TV         : 920.11
+MSE        : 561.95
+BEST_INDEX : 8
+
+epoch = 11 train_loss = 465.80 valid_loss = 635.24 tv_loss = 848.35 MSE = 634.39 time = 1909 sec
+epoch = 12 train_loss = 462.48 valid_loss = 630.77 tv_loss = 853.79 MSE = 629.91 time = 2073 sec
